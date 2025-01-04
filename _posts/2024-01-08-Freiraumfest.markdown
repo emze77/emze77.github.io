@@ -6,4 +6,37 @@ image:  freiraumfest.jpg
 tags:   Projekt, Website
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Graz beherbergt eine Vielfalt an freien, nicht-kommerziellen Räumen. Durch die Grazer Freiräume soll Menschen die Möglichkeit gegeben werden, sich kulturell, künstlerisch und politisch in das Stadtgeschehen einzubringen – jenseits des Konsumzwangs und der Gewinnorientierung. Das Freiraumfest bedeutet ein verdichtetes, selbstorganisiertes Programm in den Freiräumen mit einem gemeinsamen Rahmenprogramm. Jeden Abend ist ein Freiraum als »Festivalzentrum« zum Zusammenkommen definiert. 
+
+Am zweiten Grazer Freiraumfest (2024) nahmen 14 Grazer Freiräume teil. Das Fest enstand dabei 2023 aus der Initiative von Vertreter:innen dreier Freiräume heraus, zu denen ich gehörte. Die wesentliche Herausforderung war damals......
+
+
+
+
+## Das Projekt
+
+
+
+### Die schwingenden Grenzen des Freiraumfests
+
+
+- Konzeption der schwingenden Grenzen des Freiraumfests 
+
+
+### Website & Informationsstruktur
+
+- Hosting der Events in eigenen Gruppen auf Mobilizon
+- Zusammentragen auf der Website über ActivityPub-Protokoll
+--- Sowohl Freiheit als auch Selbstverantwortung!
+
+
+### Eventvorschläge
+
+- Etablierung eines Infokanals für Ansprechpersonen auf Signal
+- Eventformular auf freiraumfest.at (mitmachen)
+--- Voranstaltungsvorschläge werden an den Infokanal weitergeleitet werden und können so in die Räume geholt werden
+
+
+
+
+
