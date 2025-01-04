@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Viktor Sterns letzte Nacht"
-date:   2024-01-03 18:00:00 +0300
+date:   2024-01-05 18:00:00 +0300
 image:  viktorstern.jpg
 tags:   Kurzfilm
 ---

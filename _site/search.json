@@ -1,43 +1,59 @@
 [
   
     {
-      "title"    : "The Tragedy of Commoning et al.",
+      "title"    : "Global Commoning System",
       "category" : "",
-      "tags"     : "Text",
-      "url"      : "/portfolio/2024/01/05/tragedy-of-commoning/",
-      "date"     : "5 Jan, 2024"
+      "tags"     : "Projekt",
+      "url"      : "/portfolio/2024/01/10/global-commoning-system/",
+      "date"     : "10 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "Vorträge / Einführungen zum Global Commoning System",
+      "category" : "",
+      "tags"     : "Vortrag, and LaTeX",
+      "url"      : "/portfolio/2024/01/09/vortraege-gcs/",
+      "date"     : "9 Jan, 2024"
     } ,
   
     {
       "title"    : "Freiraumfest",
       "category" : "",
       "tags"     : "Projekt, and Website",
-      "url"      : "/portfolio/2024/01/04/Freiraumfest/",
-      "date"     : "4 Jan, 2024"
+      "url"      : "/portfolio/2024/01/08/Freiraumfest/",
+      "date"     : "8 Jan, 2024"
     } ,
   
     {
       "title"    : "Viktor Sterns letzte Nacht",
       "category" : "",
       "tags"     : "Kurzfilm",
-      "url"      : "/portfolio/2024/01/03/viktor-sterns-letzte-nacht/",
+      "url"      : "/portfolio/2024/01/05/viktor-sterns-letzte-nacht/",
+      "date"     : "5 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "HEIM - Nicht mehr da",
+      "category" : "",
+      "tags"     : "Musikvideo",
+      "url"      : "/portfolio/2024/01/05/heim-nicht-mehr-da/",
+      "date"     : "5 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "The Tragedy of Commoning et al.",
+      "category" : "",
+      "tags"     : "Text",
+      "url"      : "/portfolio/2024/01/04/tragedy-of-commoning/",
+      "date"     : "4 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "Werkbearbeitung Elinor Ostrom &amp; Co.",
+      "category" : "",
+      "tags"     : "Text",
+      "url"      : "/portfolio/2024/01/03/werkbearbeitungen/",
       "date"     : "3 Jan, 2024"
-    } ,
-  
-    {
-      "title"    : "Gesellschaftlicher Wandel durch Freie Software und Offene Standards",
-      "category" : "",
-      "tags"     : "Vortrag, and LaTeX",
-      "url"      : "/portfolio/2024/01/02/gesellschaftlicher-wandel/",
-      "date"     : "2 Jan, 2024"
-    } ,
-  
-    {
-      "title"    : "Global Commoning System",
-      "category" : "",
-      "tags"     : "Projekt",
-      "url"      : "/portfolio/2024/01/01/global-commoning-system/",
-      "date"     : "1 Jan, 2024"
     } 
   
 ]
