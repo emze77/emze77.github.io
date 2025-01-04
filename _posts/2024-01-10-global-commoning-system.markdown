@@ -26,8 +26,9 @@ Neben der Konzeption stammt die [aktuelle Homepage](https://commoningsystem.org)
 >
 > *Text aus der Crowdfunding-Kampagne*
 
-Die Issmit.App war der Versuch, die geplanten Funktionalitäten des *Global Commoning Systems* auf einen Anwendungsbereich zu beschränken. Die Crowdfunding-Kampagne zur Erzielung der Entwicklungskosten ist leider gescheitert.
+Die Issmit-App war der Versuch, Funktionalitäten des GCS auf einen Anwendungsbereich zu beschränken. Wir haben gehofft, dass sich so eine erste Community findet, mit der wir die Entwicklung gemeinsam voranbringen. Wäre die Issmit-App einmal stabil gewesen, sollten die Nutzenden befragt werden, in welchen weiteren gsellschaftlichen Bereich sie Unterstützung durch ein Werkzeug dieser Art benötigen. Das wäre der Start für eine zweite App gewesen und ein weiterer Schritt, um eine durch das *Global Commoning System* unterstützte Infrastruktur zu erweitern und zu stärken.
 
+Leider haben wir es nicht geschafft, die notwendige Förderung für das Projekt zu erhalten. 
 
 [Video Issmit.App]
 
