@@ -1,59 +1,43 @@
 [
   
     {
+      "title"    : "The Tragedy of Commoning et al.",
+      "category" : "",
+      "tags"     : "Text",
+      "url"      : "/portfolio/2024/01/05/tragedy-of-commoning/",
+      "date"     : "5 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "Freiraumfest",
+      "category" : "",
+      "tags"     : "Projekt, and Website",
+      "url"      : "/portfolio/2024/01/04/Freiraumfest/",
+      "date"     : "4 Jan, 2024"
+    } ,
+  
+    {
       "title"    : "Viktor Sterns letzte Nacht",
       "category" : "",
-      "tags"     : "Film",
-      "url"      : "/zolan/2024/01/01/viktor-sterns-letzte-nacht/",
+      "tags"     : "Kurzfilm",
+      "url"      : "/portfolio/2024/01/03/viktor-sterns-letzte-nacht/",
+      "date"     : "3 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "Gesellschaftlicher Wandel durch Freie Software und Offene Standards",
+      "category" : "",
+      "tags"     : "Vortrag, and LaTeX",
+      "url"      : "/portfolio/2024/01/02/gesellschaftlicher-wandel/",
+      "date"     : "2 Jan, 2024"
+    } ,
+  
+    {
+      "title"    : "Global Commoning System",
+      "category" : "",
+      "tags"     : "Projekt",
+      "url"      : "/portfolio/2024/01/01/global-commoning-system/",
       "date"     : "1 Jan, 2024"
-    } ,
-  
-    {
-      "title"    : "Find a connection with the reader",
-      "category" : "",
-      "tags"     : "Resources",
-      "url"      : "/zolan/2018/07/24/find-a-connection-with-the-reader/",
-      "date"     : "24 Jul, 2018"
-    } ,
-  
-    {
-      "title"    : "Why a brand is often important",
-      "category" : "",
-      "tags"     : "Style",
-      "url"      : "/zolan/2018/07/19/why-a-brand-is-often-important/",
-      "date"     : "19 Jul, 2018"
-    } ,
-  
-    {
-      "title"    : "Time to give gifts to everyone",
-      "category" : "",
-      "tags"     : "Life",
-      "url"      : "/zolan/2018/07/17/time-to-givegifts-to-everyone/",
-      "date"     : "17 Jul, 2018"
-    } ,
-  
-    {
-      "title"    : "Moving to a new place",
-      "category" : "",
-      "tags"     : "Home",
-      "url"      : "/zolan/2018/07/05/moving-to-a-new-place/",
-      "date"     : "5 Jul, 2018"
-    } ,
-  
-    {
-      "title"    : "Start the day with the right habit",
-      "category" : "",
-      "tags"     : "Style",
-      "url"      : "/zolan/2018/06/25/start-the-day-with-the-right-habit/",
-      "date"     : "25 Jun, 2018"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "category" : "",
-      "tags"     : "Jekyll",
-      "url"      : "/zolan/2018/05/29/welcome-to-jekyll/",
-      "date"     : "29 May, 2018"
     } 
   
 ]
