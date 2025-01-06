@@ -12,5 +12,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 + Vortrag zur Einführung
 
+(((Kurzer Git-Test)))
+
 
 Bildquelle: Wikimedia Commons. CC BY Prolineserver
