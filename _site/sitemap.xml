@@ -42,6 +42,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/styleguide/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/drehbuch/</loc>
 </url>
 <url>
@@ -60,10 +63,13 @@
 <loc>http://localhost:4000/tag/website/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/vortrag,/</loc>
+<loc>http://localhost:4000/tag/vortraege/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/latex/</loc>
+<loc>http://localhost:4000/tag/zum/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/gcs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/projekt/</loc>
