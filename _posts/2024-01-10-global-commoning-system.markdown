@@ -14,6 +14,7 @@ Das Projekt wurde durch den Essay "der Ausdehnungsdrang moderner Commons" angest
 
 Neben der Konzeption stammt die [aktuelle Homepage](https://commoningsystem.org) (Wordpress), sowie unsere interne [Projekt-Website](https://project.commoningsystem.org) (Docusaurus) von mir.
 
+## Medien
 
 [Video Issmit.App]
 
